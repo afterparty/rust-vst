@@ -5,7 +5,8 @@ authors = ["afterparty <char6447@yahoo.com>"]
 edition = "2018"
 
 [dependencies]
-vst = "0.0.2"
+vst = "0.0.1"
+rand = "0.3"
 
 [lib]
 name = "whisper"
